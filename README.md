@@ -36,9 +36,6 @@ The dataset contains multiple tables such as orders, customers, products, seller
 - On-Time Delivery %
 - Average Review Score
 
-## Preview
-![Dashboard Preview](images/dashboard_preview.png)
-
 ## Key Business Insights
 - A small group of sellers contributes a large share of total revenue.
 - Late deliveries have a clear negative impact on customer ratings.

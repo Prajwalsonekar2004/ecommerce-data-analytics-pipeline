@@ -9,7 +9,6 @@ To analyze sales performance, customer behavior, seller efficiency, delivery ope
 - Python (data cleaning & preprocessing)
 - PostgreSQL (data storage & SQL analysis)
 - Power BI (interactive dashboards)
-- SQL (business queries & KPI calculations)
 
 ## Data Source
 Brazilian E-Commerce Public Dataset by Olist (Kaggle).  
